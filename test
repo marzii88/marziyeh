@@ -116,3 +116,5 @@ pycache/
 packages/protocol/config.js
 .vercel
 .nex
+
+# server
