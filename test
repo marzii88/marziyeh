@@ -11,7 +11,7 @@ gfufx
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 ty
 # Runtime data
-
+fghf
 pids
 *.pid
 ijoi
@@ -24,7 +24,7 @@ hcdh
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
-
+ghfh
 # nyc test coverage
 .nyc_output
 gtfg
