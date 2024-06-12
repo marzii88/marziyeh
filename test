@@ -16,6 +16,7 @@ fghf
 
 pids
 *.pid
+
 ijoi
 *.seed
 *.pid.lock
