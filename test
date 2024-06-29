@@ -21,6 +21,7 @@ pids
 
 ijoi
 *.seed
+
 *.pid.lock
 
 uity
