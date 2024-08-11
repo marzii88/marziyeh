@@ -88,7 +88,7 @@ dfg
 .n
 # Optional REPL history
 .node_repl_history
-
+ftu
 # Output of 'npm pack'
 *.tgz
 
