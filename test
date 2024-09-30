@@ -60,6 +60,7 @@ yur
 *.lcov
 ghfh
 utgy
+
 # nyc test coverage
 ytuj
 .nyc_output
