@@ -153,7 +153,7 @@ dist
 .vuepress/dist
 
 # Serverless directories
-
+fsvwsd
 .serverless/
 
 # FuseBox cache
